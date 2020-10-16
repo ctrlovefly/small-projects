@@ -85,11 +85,11 @@ DFS(1)
 
 
 
-![png](output_6_1.png)
+![image](https://github.com/ctrlovefly/small-projects/blob/CPP-related-algorithms/output_6_1.png)
 
 
 
-![png](output_6_2.png)
+![image](https://github.com/ctrlovefly/small-projects/blob/CPP-related-algorithms/output_6_2.png)
 
 
 
